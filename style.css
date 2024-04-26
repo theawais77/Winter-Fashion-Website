@@ -1,0 +1,1380 @@
+ * {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  margin: 2px 0 3px 0;
+  width: 90px;
+  height: 42px;
+}
+ .home {
+  margin-right: 16px;
+  width: 92px;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.6;
+  color: rgba(0, 0, 0, 0.9);
+  list-style: none;
+}
+ .about-us-1 {
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.6;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .products-1 {
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.6;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .store-1 {
+  
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.6;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .contact-us {
+  
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.6;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .menu {
+  margin: 7px 0 8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 581.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+ .group-6 {
+  margin: 6px 16.5px 3.8px 0;
+  width: 19.5px;
+  height: 22.2px;
+}
+ .search {
+ 
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.778;
+  color: rgba(0, 0, 0, 0.8);
+}
+ .container-4 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+ .rectangle-4293 {
+  background: rgba(0, 0, 0, 0.4);
+  margin-right: 16px;
+  width: 1px;
+  height: 27px;
+}
+ .group-1309 {
+  margin: 3px 0 4.8px 0;
+  width: 19px;
+  height: 19.2px;
+}
+ .container {
+  margin: 4px 0 1px 0;
+  display: flex;
+  flex-direction: row;
+  width: 36px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+ .group-1000001217 {
+  box-shadow: 0px 4px 9px 2px rgba(150, 150, 150, 0.1);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 6px 14px 9px 15px;
+  width: 223px;
+  box-sizing: border-box;
+}
+ .menu-bar {
+  margin: 0 129px 54px 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1251px;
+  box-sizing: border-box;
+}
+ .rectangle-4303 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 1480px;
+  height: 795px;
+}
+ .Head {
+  margin-bottom: 26px;
+  display: inline-block;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 72px;
+  line-height: 1.167;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .Head2 {
+  
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.6;
+  color: rgba(0, 0, 0, 0.7);
+}
+ .text {
+  margin-bottom: 44px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+ .rectangle-42952 {
+  border-radius: 2px;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 152px;
+  height: 60px;
+}
+ .shop-now-3 {
+  position: relative;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.9);
+}
+ .cta-2 {
+  border-radius: 2px;
+  position: relative;
+  margin-right: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 15px 1.8px 15px 0;
+  width: 152px;
+  box-sizing: border-box;
+}
+ .vector-339 {
+  border-radius: 2px;
+  width: 16px;
+  height: 23px;
+}
+ .group-1000001218 {
+  box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+  background: rgba(255, 255, 255, 0.2);
+  position: relative;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 18px 19px 19px 19px;
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+}
+ .Vid2{
+  margin: 11px 0 12px 0;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.85;
+  color: rgba(0, 0, 0, 0.7);
+}
+ .Vid {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+ .cta-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+ .container-6 {
+  margin: 23px 112.8px 41px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .group-1000001221 {
+  border-radius: 10px;
+  position: relative;
+  width: 512px;
+  height: 510px;
+}
+ .container-5 {
+  position: relative;
+  margin-bottom: 102px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+ .mask-group {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 324.4px;
+  height: 248.4px;
+}
+ .winter-collection {
+  position: relative;
+  margin-bottom: 24px;
+  display: inline-block;
+  text-align: center;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.357;
+  color: #FFFFFF;
+}
+ .shop-now {
+  position: relative;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.889;
+  color: rgba(255, 255, 255, 0.9);
+}
+ .rectangle-42951 {
+  border-radius: 2px;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 116px;
+  height: 46px;
+}
+ .group-1000001232 {
+  border-radius: 2px;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 6px 18.5px 6px 17px;
+  box-sizing: border-box;
+}
+ .group-1000001241 {
+  position: relative;
+  margin-right: 45.6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding-bottom: 17.4px;
+  width: 324.4px;
+  box-sizing: border-box;
+}
+ .mask-group-1 {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 328.7px;
+  height: 248.4px;
+}
+ .mens-collection {
+  position: relative;
+  margin-bottom: 25px;
+  display: inline-block;
+  text-align: center;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.357;
+  color: rgba(255, 255, 255, 0.9);
+}
+ .shop-now-1 {
+  position: relative;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.889;
+  color: rgba(255, 255, 255, 0.9);
+}
+ .rectangle-4304 {
+  border-radius: 2px;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 116px;
+  height: 46px;
+}
+ .group-1000001231 {
+  border-radius: 2px;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 6px 18.5px 6px 17px;
+  box-sizing: border-box;
+}
+ .group-1000001240 {
+  position: relative;
+  margin-right: 45.3px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding-bottom: 17.4px;
+  width: 328.7px;
+  box-sizing: border-box;
+}
+ .mask-group-2 {
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 328.7px;
+  height: 248.4px;
+}
+ .women-collection {
+  position: relative;
+  margin-bottom: 17px;
+  display: inline-block;
+  text-align: center;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.357;
+  color: rgba(255, 255, 255, 0.9);
+}
+ .shop-now-2 {
+  position: relative;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.889;
+  color: rgba(255, 255, 255, 0.9);
+}
+ .rectangle-43051 {
+  border-radius: 2px;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 116px;
+  height: 46px;
+}
+ .group-1000001230 {
+  border-radius: 2px;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 6px 18.5px 6px 17px;
+  box-sizing: border-box;
+}
+ .group-1000001239 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding-bottom: 17.2px;
+  width: 328.7px;
+  box-sizing: border-box;
+}
+ .group-1000001242 {
+  position: relative;
+  margin-left: 69.7px;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: 1072.7px;
+  box-sizing: border-box;
+}
+ .group-1498 {
+  margin-right: 8.6px;
+  width: 32px;
+  height: 32px;
+}
+ .group-1499 {
+  margin-right: 11.1px;
+  width: 32px;
+  height: 32px;
+}
+ .group-1500 {
+  width: 32px;
+  height: 32px;
+}
+ .group-1000001259 {
+  position: absolute;
+  right: 367.3px;
+  bottom: 326.4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+ .image-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 56px 0 0 100px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+ .section-1 {
+  margin-bottom: 186.6px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+ .trendy-collections {
+  margin-bottom: 60px;
+  display: inline-block;
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 1.161;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .collections-types {
+  margin-bottom: 36px;
+  display: inline-block;
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.417;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .tops {
+  margin: 0 10px 26px 10px;
+  display: inline-block;
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .coats {
+  margin: 0 10px 26px 10px;
+  display: inline-block;
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .rectangle-4305 {
+  border-radius: 3px;
+  margin: 2px 4px 3px 0;
+  width: 6px;
+  height: 25px;
+}
+ .denim {
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .group-1000001229 {
+  border-radius: 3px;
+  margin-bottom: 22px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+ .hoodies {
+  margin: 0 10px 26px 10px;
+  display: inline-block;
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .outerwear {
+  margin: 0 10px 32px 10px;
+  display: inline-block;
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .denim-wash-blue-jacket-1 {
+  margin-bottom: 1px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .container-2 {
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .group-10000012332 {
+  margin-right: 61.6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .group-10000012223 {
+  margin: 6px 0;
+  width: 46px;
+  height: 52px;
+}
+ .group-1000001237 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+ .Jacketss {
+  margin-bottom: 1px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .container-3 {
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .group-1000001234 {
+  margin-right: 61.6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .group-1000001223 {
+  margin: 6px 0;
+  width: 46px;
+  height: 52px;
+}
+ .group-1000001238 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+ .denim-wash-blue-jacket-3 {
+  margin-bottom: 1px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .container-4 {
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .group-1000001235 {
+  margin-right: 61.6px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .group-1000001224 {
+  margin: 6px 0;
+  width: 46px;
+  height: 52px;
+}
+ .group-1000001236 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+ .container-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 1114px;
+  box-sizing: border-box;
+}
+ .section-2 {
+  margin: 0 0 186px 100px;
+  display: flex;
+  flex-direction: column;
+  width: 1404px;
+  box-sizing: border-box;
+}
+ .image {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+ .what-are-denim-jackets-made-of {
+  position: relative;
+  margin-bottom: 228px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 1.179;
+  color: #000000;
+}
+ .rectangle-4295 {
+  border-radius: 2px;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 152px;
+  height: 60px;
+}
+ .lern-more {
+  position: relative;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.9);
+}
+ .cta {
+  border-radius: 2px;
+  position: relative;
+  margin-right: 254.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 15px 0.8px 15px 0;
+  width: 152px;
+  box-sizing: border-box;
+}
+ .Fabrics {
+  position: absolute;
+  right: 264.7px;
+  bottom: 214px;
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.6;
+  color: rgba(0, 0, 0, 0.7);
+}
+ .section-3 {
+  position: relative;
+  margin-bottom: 186px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 98px 0 111px 0;
+  width: 1480px;
+  box-sizing: border-box;
+}
+ .rectangle-4314 {
+  border-radius: 10px;
+  width: 395px;
+  height: 312px;
+}
+ .rectangle-4318 {
+  border-radius: 10px;
+  width: 394px;
+  height: 312px;
+}
+ .rectangle-4319 {
+  border-radius: 10px;
+  width: 395px;
+  height: 312px;
+}
+ .container-7 {
+  margin-bottom: 119px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 48px;
+  width: 1280px;
+  box-sizing: border-box;
+}
+ .rectangle-4320 {
+  border-radius: 10px;
+  width: 395px;
+  height: 312px;
+}
+ .rectangle-4321 {
+  border-radius: 10px;
+  width: 394px;
+  height: 312px;
+}
+ .rectangle-4322 {
+  border-radius: 10px;
+  width: 395px;
+  height: 312px;
+}
+ .container-8 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 48px;
+  width: 1280px;
+  box-sizing: border-box;
+}
+ .image-3 {
+  border-radius: 10px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+ .winter-collections {
+  margin: 0 0 8px 34.7px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 1.179;
+  color: #000000;
+}
+ .Clothess {
+  margin: 0 0 395px 36.8px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(0, 0, 0, 0.7);
+}
+ .denim-wash-blue-jacket-4 {
+  margin-bottom: 1px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .container-5 {
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .group-10000012333 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .group-10000012224 {
+  margin: 6px 0;
+  width: 46px;
+  height: 52px;
+}
+ .group-1000001243 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 355px;
+  box-sizing: border-box;
+}
+ .fashion-full-body-suit {
+  margin-bottom: 1px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .container-7 {
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .group-10000012335 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .group-10000012226 {
+  margin: 6px 0;
+  width: 46px;
+  height: 52px;
+}
+ .group-1000001244 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 355px;
+  box-sizing: border-box;
+}
+ .brown-suede-sneakers {
+  margin-bottom: 1px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .container {
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .group-1000001233 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .group-10000012221 {
+  margin: 6px 0;
+  width: 46px;
+  height: 52px;
+}
+ .group-1000001245 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 355px;
+  box-sizing: border-box;
+}
+ .container-1 {
+  margin: 0 1px 367px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1240px;
+  box-sizing: border-box;
+}
+ .trench-coat-men {
+  margin-bottom: 1px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.8);
+}
+ .container-6 {
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .group-10000012334 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .group-10000012225 {
+  margin: 6px 0;
+  width: 46px;
+  height: 52px;
+}
+ .group-1000001246 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 355px;
+  box-sizing: border-box;
+}
+ .stylish-face-mask {
+  margin-bottom: 1px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .container-8 {
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .group-10000012336 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .group-1000001222 {
+  margin: 6px 0;
+  width: 46px;
+  height: 52px;
+}
+ .group-1000001247 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 355px;
+  box-sizing: border-box;
+}
+ .denim-wash-blue-jacket {
+  margin-bottom: 1px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .container-1 {
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(0, 0, 0, 0.6);
+}
+ .group-10000012331 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .group-10000012222 {
+  margin: 6px 0;
+  width: 46px;
+  height: 52px;
+}
+ .group-1000001248 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 355px;
+  box-sizing: border-box;
+}
+ .container-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1241px;
+  box-sizing: border-box;
+}
+ .text-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1241px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+ .section-4 {
+  position: relative;
+  margin: 0 100px 201px 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-right: 39px;
+  width: 1280px;
+  box-sizing: border-box;
+}
+ .subscribe-on-our-newsletter {
+  margin-bottom: 22px;
+  display: inline-block;
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 1.179;
+  color: #000000;
+}
+ .Ourss {
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(0, 0, 0, 0.7);
+}
+ .text-3 {
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+ .rectangle-4325 {
+  border-radius: 5px;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 577px;
+  height: 127px;
+}
+ .enter-your-email {
+  position: relative;
+  margin: 14px 16.5px 14px 0;
+  display: inline-block;
+  width: 366.2px;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.375;
+  color: rgba(255, 255, 255, 0.9);
+}
+ .rectangle-4326 {
+  border-radius: 2px;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 146.7px;
+  height: 61px;
+}
+ .subscribe-1 {
+  position: relative;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.375;
+  color: rgba(0, 0, 0, 0.9);
+}
+ .group-1000001260 {
+  border-radius: 2px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 14px 0.3px 14px 0;
+  width: 146.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+ .subscribe {
+  position: relative;
+  margin-right: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 33px 18.6px 33px 29px;
+  width: 577px;
+  box-sizing: border-box;
+}
+ .text-2 {
+  margin-right: 75px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+ .image-2 {
+  border-radius: 10px;
+  width: 500px;
+  height: 417px;
+}
+ .section-5 {
+  margin: 0 100px 199px 100px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+ .rectangle-4328 {
+  border-radius: 10px;
+  position: absolute;
+  left: 94px;
+  top: 126px;
+  width: 393px;
+  height: 348px;
+}
+ .rectangle-4329 {
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  top: 319px;
+  translate: -50% 0;
+  width: 393px;
+  height: 348px;
+}
+ .rectangle-42953 {
+  border-radius: 2px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+ .follow-us {
+  position: relative;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.9);
+}
+ .group-1000001254 {
+  border-radius: 2px;
+  position: relative;
+  margin: 455px 301.5px 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 12px 2px 16px 0;
+  width: 152px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+ .latest-instagram-post {
+  margin-bottom: 383px;
+  display: inline-block;
+  text-align: center;
+   
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 1.179;
+  color: #000000;
+}
+ .text-1 {
+  border-radius: 2px;
+  position: relative;
+  margin: 117px 66.5px 0 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+ .rectangle-4330 {
+  border-radius: 10px;
+  position: relative;
+  margin: 126px 0 158px 0;
+  width: 393px;
+  height: 348px;
+}
+ .section-6 {
+  background: #F8F2ED;
+  position: relative;
+  margin-bottom: 200px;
+  display: flex;
+  flex-direction: row;
+  padding: 117px 88px 123px 94px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+ .group-1000001258 {
+  margin: 10px 0 7px 0;
+  width: 174px;
+  height: 130px;
+}
+ .about {
+  margin-bottom: 32px;
+  display: inline-block;
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8);
+}
+ .about-us {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.6);
+}
+ .news-blog {
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.6);
+}
+ .group-1000001257 {
+  margin-right: 136.4px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .products {
+  margin-bottom: 32px;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8);
+}
+ .features {
+  margin: 0 8.6px 16px 0;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.6);
+}
+ .store {
+  align-self: flex-start;
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.6);
+}
+ .group-1000001255 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .container-9 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+ .discover {
+  margin: 0 9.8px 32px 0;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.8);
+}
+ .contact-us-1 {
+  margin: 0 0.9px 16px 0;
+  display: inline-block;
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.6);
+}
+ .customers {
+   
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.6);
+}
+ .group-1000001256 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+ .section-7 {
+  background: rgba(0, 0, 0, 0.9);
+  position: relative;
+  margin: 0 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 49px 0 52px 97px;
+  width: 1478px;
+  box-sizing: border-box;
+}
+
